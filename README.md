@@ -1,2 +1,10 @@
 # JS-Practice
+
 JavaScript exercises. Node-school workshops.
+
+[Source of workshops](https://nodeschool.io)
+
+
+### List of passed workshops
+
+- [x] Count to 6 (ES6)
