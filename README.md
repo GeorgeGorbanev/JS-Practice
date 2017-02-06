@@ -9,3 +9,4 @@ JavaScript exercises. Node-school workshops.
 
 - [x] Count to 6 (ES6)
 - [x] Promise it wont hurt
+- [x] async you
