@@ -7,6 +7,7 @@ JavaScript exercises. Node-school workshops.
 
 ### List of passed workshops
 
-- [x] Count to 6 (ES6)
-- [x] Promise it wont hurt
-- [x] async you
+- [x] Count to 6 (ES6);
+- [x] Promise it wont hurt;
+- [x] Async you;
+- [x] Learn generators;
