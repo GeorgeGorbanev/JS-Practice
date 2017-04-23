@@ -11,4 +11,5 @@ JavaScript exercises. Node-school workshops.
 - [x] Promise it wont hurt;
 - [x] Async you;
 - [x] Learn generators;
-- [x] Planet Proto
+- [x] Planet Proto;
+- [ ] Learn you node;
