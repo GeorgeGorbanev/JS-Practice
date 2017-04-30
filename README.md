@@ -12,4 +12,6 @@ JavaScript exercises. Node-school workshops.
 - [x] Async you;
 - [x] Learn generators;
 - [x] Planet Proto;
-- [ ] Learn you node;
+- [x] Learn you node;
+- [x] Scope, chains, closures;
+- [ ] ...
