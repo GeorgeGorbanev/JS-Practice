@@ -14,4 +14,5 @@ JavaScript exercises. Node-school workshops.
 - [x] Planet Proto;
 - [x] Learn you node;
 - [x] Scope, chains, closures;
+- [ ] Stream adventure;
 - [ ] ...
