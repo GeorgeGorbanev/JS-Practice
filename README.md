@@ -15,4 +15,5 @@ JavaScript exercises. Node-school workshops.
 - [x] Learn you node;
 - [x] Scope, chains, closures;
 - [x] Stream adventure;
+- [x] Test anything; 
 - [ ] ...
